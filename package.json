@@ -2,7 +2,7 @@
   "name": "flower",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/caubesin/flower",
+  "homepage": "https://caubesin.github.io/flower/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
